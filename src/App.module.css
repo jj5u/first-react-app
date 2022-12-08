@@ -8,3 +8,27 @@
   color: #333;
   line-height: 1.8;
 }
+
+.converter {
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+}
+.output {
+  border: 1px solid #333;
+  padding: 6px 8px;
+  height: 15.5px;
+  line-height: 1.2;
+}
+
+button {
+  padding: 6px 8px;
+  background-color: #333;
+  color: #fff;
+  border-style: solid;
+  border-color: unset;
+}
+
+input {
+  padding: 6px 8px;
+}
